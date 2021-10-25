@@ -1,0 +1,26 @@
+Srinivas vedios
+
+    --> no 35 -- vedio 0 -- About course
+    --> no 36 -- vedio 1 -- Creating react app and github
+    --> no 37 -- vedio 2 -- About GitHub
+    --> no 38 -- vedio 3 -- git installetion
+    --> no 39 -- vedio 4 -- git configaration
+    --> no 40 -- vedio 5 -- gitHub repositories
+                                -- these are two types
+                                    1. remote repositry
+                                    2. local repositry
+    --> no 41 -- vedio 6 -- creating local github repositry
+    --> no 42 -- vedio 7 -- github repositry stages
+    --> no 43 -- vedio 8 -- git status
+                            -- red = working stages
+                            -- green = staged stages
+                            -- we cannot see anything for commited stage
+    --> no 44 -- vedio 9 -- changing stages in git
+    --> no 45 -- vedio 10 -- git stages demo
+    --> no 46 -- vedio 11 -- git log
+    --> no 47 -- vedio 12 -- git push
+    --> no 48 -- vedio 13 -- git push demo
+    --> no 49 -- vedio 14 -- space-x start creating header component
+    --> no 50 -- vedio 15 -- adding styles header components
+    --> no 51 -- vedio 16 -- 
+
