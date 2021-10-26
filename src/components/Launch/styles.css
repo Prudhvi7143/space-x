@@ -1,12 +1,12 @@
 .launch{
     box-shadow: 2px 2px 2px 2px darkgrey;
-    width:1000px;
+    width:900px;
     height: 200px;
     display: flex;
     border-radius:10px;
     cursor: pointer;
-    /* remove it in forther */
-    margin-left: 50px; 
+    /* remove it in forther
+    margin-left: 50px;*/
     margin-top: 50px;
 }
 .launch img {
