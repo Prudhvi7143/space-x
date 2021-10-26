@@ -22,5 +22,9 @@ Srinivas vedios
     --> no 48 -- vedio 13 -- git push demo
     --> no 49 -- vedio 14 -- space-x start creating header component
     --> no 50 -- vedio 15 -- adding styles header components
-    --> no 51 -- vedio 16 -- 
+    --> no 51 -- vedio 16 -- space-x api demo
+    --> no 52 -- vedio 17 -- launch basic component
+    --> no 53 -- vedio 18 -- launch basics css
+    --> no 54 -- vedio 19 -- launch component css
+    --> no 55 -- vedio 20 -- 
 
