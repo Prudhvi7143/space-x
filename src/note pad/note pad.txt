@@ -28,5 +28,11 @@ Srinivas vedios
     --> no 54 -- vedio 19 -- launch component css
     --> no 55 -- vedio 20 -- Appling props to launch components
     --> no 56 -- vedio 21 -- Launch list components
-    --> no 57 -- vedio 22 -- 
+    --> no 57 -- vedio 22 -- Launch list styles
+    --> no 58 -- vedio 23 -- pushing to github
+    --> no 59 -- vedio 24 -- installing axios
+    --> no 60 -- vedio 25 -- get all launches using axios
+    --> no 61 -- vedio 26 -- 
+    --> no 62 -- vedio 27 -- 
+    --> no 63 -- vedio 28 -- 
 
