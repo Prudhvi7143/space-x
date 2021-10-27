@@ -32,7 +32,15 @@ Srinivas vedios
     --> no 58 -- vedio 23 -- pushing to github
     --> no 59 -- vedio 24 -- installing axios
     --> no 60 -- vedio 25 -- get all launches using axios
-    --> no 61 -- vedio 26 -- 
-    --> no 62 -- vedio 27 -- 
-    --> no 63 -- vedio 28 -- 
+    --> no 61 -- vedio 26 -- keep all launches in state
+    --> no 62 -- vedio 27 -- Display orginal launches
+    --> no 63 -- vedio 28 -- Display images
+    --> no 64 -- vedio 29 -- Display default images
+    --> no 65 -- vedio 30 -- fix issue with key
+    --> no 66 -- vedio 31 -- ruter intro
+    --> no 67 -- vedio 32 -- Add launch view component
+    --> no 68 -- vedio 33 -- Apply routing 
+    --> no 69 -- vedio 34 -- Add link to launch
+    --> no 70 -- vedio 35 -- Pass Flight Numbers(Router Params)
+    --> no 71 -- vedio 35 -- 
 
