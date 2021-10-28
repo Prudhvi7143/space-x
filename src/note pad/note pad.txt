@@ -81,4 +81,7 @@ Srinivas vedios
                                     -- git push heroku master 
                                             Push the code to the heroku app, builds it and starts it
     --> no 81 -- vedio 46 -- Re deploy updated changes
-    --> no 82 -- vedio 47 --
+                                -- made some changes
+                                -- push to the git = git push
+                                -- push to heroku = git push heroku master
+    --> no 82 -- vedio 47 -- delete heroku app
