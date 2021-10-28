@@ -1,0 +1,18 @@
+.attribute {
+    display : flex; 
+}
+
+.attribute h1 {
+    width : 400px;
+    font-size : 24px;
+    color : cadetblue;
+}
+
+.launch-view {
+    max-width : 800px;
+    margin : auto;
+}
+
+.launch-details {
+    color : gray;
+}

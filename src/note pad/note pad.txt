@@ -38,9 +38,12 @@ Srinivas vedios
     --> no 64 -- vedio 29 -- Display default images
     --> no 65 -- vedio 30 -- fix issue with key
     --> no 66 -- vedio 31 -- ruter intro
-    --> no 67 -- vedio 32 -- Add launch view component
-    --> no 68 -- vedio 33 -- Apply routing 
-    --> no 69 -- vedio 34 -- Add link to launch
-    --> no 70 -- vedio 35 -- Pass Flight Numbers(Router Params)
-    --> no 71 -- vedio 35 -- 
-
+    --> no 67 -- vedio 32 -- Add launch view component(imp)
+    --> no 68 -- vedio 33 -- Apply routing (imp)
+    --> no 69 -- vedio 34 -- Add link to launch(imp)
+    --> no 70 -- vedio 35 -- Pass Flight Numbers(Router Params)(imp)
+    --> no 71 -- vedio 36 -- Get single launch(imp)
+    --> no 72 -- vedio 37 -- Get launch based on flight numbers (imp)
+    --> no 73 -- vedio 38 -- Display launch info
+    --> no 74 -- vedio 39 -- Avoid Duplication
+    --> no 75 -- vedio 40 -- 
