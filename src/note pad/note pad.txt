@@ -46,11 +46,28 @@ Srinivas vedios
     --> no 72 -- vedio 37 -- Get launch based on flight numbers (imp)
     --> no 73 -- vedio 38 -- Display launch info
     --> no 74 -- vedio 39 -- Avoid Duplication
-    --> no 75 -- vedio 40 -- Add slideshow to flicker images
-    --> no 76 -- vedio 41 -- Apply slideshow
-    --> no 77 -- vedio 42 -- Fix issue with slideshow
-    --> no 78 -- vedio 43 -- 
-    --> no 79 -- vedio 44 --
-    --> no 80 -- vedio 45 --
+    --> no 75 -- vedio 40 -- Add styles to launch view
+    --> no 76 -- vedio 41 -- Add slideshow to flicker images
+    --> no 77 -- vedio 42 -- Apply slideshow
+    --> no 78 -- vedio 43 -- Fix issue with slideshow
+    --> no 79 -- vedio 44 -- Deployment basics
+                                --> localhost:3000(we can access only in our system we cannot acess in any other systems)
+                                    127.0.0.1:3000(we can access only in our system we cannot acess in any other systems)
+                                    http://192.168.1.96:3000/ (with this any one can access by using same wifi)
+                                    localhost = host      3000 = port(any app will run on port)
+                                    cloud deploy/Internet (With this process any one can acess from any were in the world)
+                                        -- For deploying in cloud we can use
+                                            -- Heroku
+                                            -- Amazon
+                                            -- Azure
+                                            -- Google Cloud
+                                            -- Oracle
+                                            -- IBM
+
+                                    Why to deploy?
+                                    Available options to deploy
+                                    Heroku account creation
+                                    Heroku cli installetion
+    --> no 80 -- vedio 45 -- 
     --> no 81 -- vedio 46 --
     --> no 82 -- vedio 47 --
