@@ -68,6 +68,17 @@ Srinivas vedios
                                     Available options to deploy
                                     Heroku account creation
                                     Heroku cli installetion
-    --> no 80 -- vedio 45 -- 
-    --> no 81 -- vedio 46 --
+    --> no 80 -- vedio 45 -- deploy Application
+                                -- push latest update to git
+                                -- install Heroku cli
+                                -- Heroku login
+                                -- create a new app in Heroku with react build_pack
+                                        heroku create <app_name>(sentix for creating heroku app)
+                                    -- build pack (for react)
+                                        heroku create <app_name> -b <build_pack>(it will create the app with the build pack)
+                                            heroku create my-space-x -b https://github.com/mars/create-react-app-buildpack.git
+                                    -- connect to heroku app
+                                    -- git push heroku master 
+                                            Push the code to the heroku app, builds it and starts it
+    --> no 81 -- vedio 46 -- Re deploy updated changes
     --> no 82 -- vedio 47 --
