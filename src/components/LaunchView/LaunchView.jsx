@@ -2,10 +2,24 @@ import React from 'react';
 import axios from "axios";
 import { withRouter } from 'react-router';
 import './style.css';
+import { Zoom } from "react-slideshow-image";
+
+const zoomOutProperties = {
+  duration: 500,
+  transitionDuration: 500,
+  infinite: true,
+  indicators: true,
+  scale: 0.4,
+  arrows: true
+};
 
 export class LaunchView extends React.Component {
     state = {
-        launch : {}
+        launch : {
+            links : {
+                flickr_images : []
+            }
+        }
     }
     componentDidMount= () => {
         const flightNo = this.props.match.params.flight_number
@@ -30,12 +44,24 @@ export class LaunchView extends React.Component {
         )
     }
     render(){
-        console.log(this.state.launch)
+        const hasImage = this.state.launch.links.flickr_images.length > 0;
+        //console.log(this.state.launch.links.flickr_images)
         return(
             <div className = "launch-view">
                 {this.launchAttribute("Mission Name", "mission_name")}
                 {this.launchAttribute("Flight Numbe", "flight_number")}
                 {this.launchAttribute("Launch Date", "launch_date_local")}
+                {
+                    hasImage && (
+                <Zoom {...zoomOutProperties}>
+                    {
+                        this.state.launch.links.flickr_images.map((each, index) =>
+                        <img key={index} alt = "Flicker Image" style={{ width: "100%" }} src={each} />
+                    )}
+                </Zoom>
+                    )
+                }
+
                 <p className = "launch-details">{this.state.launch.details}</p>
             </div>
         )

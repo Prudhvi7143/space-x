@@ -46,4 +46,11 @@ Srinivas vedios
     --> no 72 -- vedio 37 -- Get launch based on flight numbers (imp)
     --> no 73 -- vedio 38 -- Display launch info
     --> no 74 -- vedio 39 -- Avoid Duplication
-    --> no 75 -- vedio 40 -- 
+    --> no 75 -- vedio 40 -- Add slideshow to flicker images
+    --> no 76 -- vedio 41 -- Apply slideshow
+    --> no 77 -- vedio 42 -- Fix issue with slideshow
+    --> no 78 -- vedio 43 -- 
+    --> no 79 -- vedio 44 --
+    --> no 80 -- vedio 45 --
+    --> no 81 -- vedio 46 --
+    --> no 82 -- vedio 47 --
